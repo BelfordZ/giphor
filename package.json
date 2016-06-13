@@ -1,0 +1,24 @@
+{
+  "name": "giphor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelfordZ/giphor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BelfordZ/giphor/issues"
+  },
+  "homepage": "https://github.com/BelfordZ/giphor#readme",
+  "dependencies": {
+    "google-search": "https://github.com/William-Olson/google-search.git",
+    "restify": "^4.0.4",
+    "underscore": "^1.8.3"
+  }
+}
